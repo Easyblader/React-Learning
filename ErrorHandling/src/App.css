@@ -1,0 +1,24 @@
+.appuu {
+  align-content: center;
+  height: 100%;
+  width: 100%;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.smallDiv {
+  background-color: white;
+  width: 50rem;
+  height: 20rem;
+  padding: 20px;
+  margin: 20px;
+  border: 0rem;
+  flex: 0.5;
+  border-radius: 25px;
+}
+
+.inputo {
+  width: 25rem;
+}
